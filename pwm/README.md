@@ -67,4 +67,6 @@ Para compilar e executar este projeto, certifique-se de ter o Pico SDK devidamen
 
 Este exemplo é útil para entender como manipular sinais PWM para controle de servomotores, além de demonstrar como implementar ajustes finos de movimentos utilizando incrementos pequenos e atrasos controlados.
 
+Video mostrando o funcionamento no Wokwi (extensão do vscode): https://youtu.be/XqTysKfHC_I
+
 --- 
